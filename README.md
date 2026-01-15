@@ -1,5 +1,5 @@
 ### Hi there👋
-<h1> I'm Mehmadullah sheikh and interested in all things Python & Data Science</h1>
+<h1>Hi, I’m Mehmadullah Sheikh, a passionate full-stack enthusiast who loves exploring every layer of modern web development — from intuitive frontends to scalable backends.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmadullahsheikh&label=Profile%20views&color=0e75b6&style=flat" alt="mehmadullahsheikh" /> </p>
@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **Web development**
 
 - 📫 How to reach me **mehmadullahsheikh@gmail.com**
 
